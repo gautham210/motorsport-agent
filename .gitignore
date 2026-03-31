@@ -1,8 +1,15 @@
-.cache/
-.npm/
-.config/
-.local/
-node_modules/
+# Python
 __pycache__/
-.env
-.git-credentials
+*.pyc
+.local/
+.venv/
+
+# Cache
+.cache/
+
+# Node
+node_modules/
+.npm/
+
+# Logs
+*.log
