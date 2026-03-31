@@ -1,0 +1,8 @@
+.cache/
+.npm/
+.config/
+.local/
+node_modules/
+__pycache__/
+.env
+.git-credentials

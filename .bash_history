@@ -36,3 +36,14 @@ git remote add origin https://github.com/gautham210/motorsport-agent.git
 git push -u origin main
 git config --global credential.helper store
 git push -u origin main
+git config --global user.email "gauthamkrishna02102007@gmail.com"
+git config --global user.name "Gautham"
+git add .
+git commit -m "initial commit"
+git branch -M main
+git push -u origin main
+git rm -r --cached .cache
+git rm -r --cached .npm
+git rm -r --cached .config
+git rm -r --cached .local
+nano .gitignore
