@@ -640,3 +640,4 @@ I0331 17:38:12.932547    4143 conn_opt.go:55] jsonrpc2: --> request #21: textDoc
 I0331 17:38:12.932655    4143 conn_opt.go:55] jsonrpc2: --> request #22: textDocument/documentLink: {"textDocument":{"uri":"file:///home/gauthamkrishna02102007/agent.py"}}
 I0331 17:38:12.932865    4143 conn_opt.go:96] jsonrpc2: <-- result #21: textDocument/codeAction: null
 I0331 17:38:12.932941    4143 conn_opt.go:96] jsonrpc2: <-- result #22: textDocument/documentLink: null
+I0331 17:46:21.216816    4143 life_cycle.go:460] aiCharsReportEvery: compute and send aicharsreport metric

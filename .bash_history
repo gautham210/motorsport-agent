@@ -26,3 +26,13 @@ git branch -M main
 git push -u origin main
 git config --global user.email "gauthamkrishna02102007@gmail.com"
 git config --global user.name "Gautham Krishna"
+git init
+git add .
+git commit -m "initial commit"
+git remote remove origin
+git remote add origin https://github.com/gautham210/motorsport-agent.git
+git push -u origin main
+git remote add origin https://github.com/gautham210/motorsport-agent.git
+git push -u origin main
+git config --global credential.helper store
+git push -u origin main
