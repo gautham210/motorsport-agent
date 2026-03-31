@@ -1,0 +1,28 @@
+Starting background process...
+Background process started with PID 1700
+[INFO] 2026-03-31 15:28:06.205 PM -- [CoderAgentExecutor] Overriding workspace path to: /home/gauthamkrishna02102007
+[ERROR] 2026-03-31 15:28:06.210 PM -- Warning: unexpected file /home/gauthamkrishna02102007/.gemini/extensions/extension-enablement.json in extensions directory.
+[ERROR] 2026-03-31 15:28:06.211 PM -- Warning: unexpected file /home/gauthamkrishna02102007/.gemini/extensions/extension-enablement.json in extensions directory.
+[INFO] 2026-03-31 15:28:06.212 PM -- Loading extension: vertex (version: 0.2.0)
+(node:1700) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Ignore file not found: /home/gauthamkrishna02102007/.geminiignore, continue without it.
+Ignore file not found: /home/gauthamkrishna02102007/.aiexclude, continue without it.
+Ignore file not found: /home/gauthamkrishna02102007/.geminiignore, continue without it.
+Ignore file not found: /home/gauthamkrishna02102007/.aiexclude, continue without it.
+Ignore file not found: /home/gauthamkrishna02102007/.geminiignore, continue without it.
+Ignore file not found: /home/gauthamkrishna02102007/.aiexclude, continue without it.
+Ignore file not found: /home/gauthamkrishna02102007/.geminiignore, continue without it.
+Ignore file not found: /home/gauthamkrishna02102007/.aiexclude, continue without it.
+Loading extension: vertex
+Hook registry initialized with 0 hook entries
+Hook system initialized successfully
+[STARTUP] StartupProfiler.flush() called with 1 phases
+[STARTUP] Recording metric for phase: discover_tools duration: 5673.62198
+[INFO] 2026-03-31 15:28:12.108 PM -- [Config] Using CCPA Auth:
+Failed to load credentials from /home/gauthamkrishna02102007/.gemini/oauth_creds.json: ENOENT: no such file or directory, open '/home/gauthamkrishna02102007/.gemini/oauth_creds.json'
+[?1049h[2J[H[?1006l[?1002l[<u[?7hPlease visit the following URL to authorize the application:
+
+https://accounts.google.com/o/oauth2/v2/auth?redirect_uri=https%3A%2F%2Fcodeassist.google.com%2Fauthcode&access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&code_challenge_method=S256&code_challenge=kB4XjRzAi7PwY-mhTl5Tbp8rjHTp__RvoHldn6ksBWY&state=29cbb3ff27783500c75062348997cb3fdb93ad666fafe4271e86706ed5e7b5e1&response_type=code&client_id=681255809395-oo8ft2oprdrnp9e3aqf6av3hmdib135j.apps.googleusercontent.com
+
+[1G[0JEnter the authorization code: [31G

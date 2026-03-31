@@ -1,0 +1,6 @@
+2026-03-31 17:15:29.007 [warning] Dir "/home/gauthamkrishna02102007/.pixi/envs" is not watchable (directory does not exist)
+2026-03-31 17:15:30.558 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-03-31 17:15:31.768 [info] Python interpreter path: /bin/python
+2026-03-31 17:15:34.589 [info] > pyenv which python
+2026-03-31 17:15:34.589 [info] cwd: .
+2026-03-31 17:15:36.738 [info] Starting Jedi language server for gauthamkrishna02102007.

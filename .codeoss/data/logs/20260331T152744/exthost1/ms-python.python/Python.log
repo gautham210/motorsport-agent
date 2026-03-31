@@ -1,0 +1,39 @@
+2026-03-31 15:27:54.878 [warning] Dir "/home/gauthamkrishna02102007/.pixi/envs" is not watchable (directory does not exist)
+2026-03-31 15:27:57.813 [info] Starting Environment refresh
+2026-03-31 15:27:57.814 [info] Searching for interpreters in posix paths locator
+2026-03-31 15:27:57.823 [info] Searching for pyenv environments
+2026-03-31 15:27:57.823 [info] Searching for conda environments
+2026-03-31 15:27:57.824 [info] Searching for global virtual environments
+2026-03-31 15:27:57.824 [info] Searching for custom virtual environments
+2026-03-31 15:27:57.835 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-03-31 15:27:57.835 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-03-31 15:27:57.849 [info] pyenv is not installed
+2026-03-31 15:27:57.849 [info] Finished searching for pyenv environments: 34 milliseconds
+2026-03-31 15:27:57.851 [info] Finished searching for custom virtual envs: 34 milliseconds
+2026-03-31 15:27:57.861 [info] > conda info --json
+2026-03-31 15:27:57.876 [info] > hatch env show --json
+2026-03-31 15:27:57.876 [info] cwd: .
+2026-03-31 15:27:58.029 [info] > pyenv which python
+2026-03-31 15:27:58.030 [info] cwd: .
+2026-03-31 15:27:58.034 [info] Finished searching for global virtual envs: 218 milliseconds
+2026-03-31 15:27:58.078 [info] Found: /bin/python --> /bin/python3.12
+2026-03-31 15:27:58.080 [info] Found: /bin/python3 --> /bin/python3.12
+2026-03-31 15:27:58.081 [info] Found: /bin/python3.12 --> /bin/python3.12
+2026-03-31 15:27:58.131 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2026-03-31 15:27:58.131 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2026-03-31 15:27:58.133 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2026-03-31 15:27:58.173 [info] Finished searching for interpreters in posix paths locator: 355 milliseconds
+2026-03-31 15:27:58.173 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-03-31 15:27:58.193 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-03-31 15:27:58.193 [info] Environments refresh paths discovered (event): 381 milliseconds
+2026-03-31 15:27:58.193 [info] Environments refresh paths discovered: 382 milliseconds
+2026-03-31 15:27:58.273 [info] Environments refresh finished (event): 462 milliseconds
+2026-03-31 15:27:58.283 [info] Environment refresh took 472 milliseconds
+2026-03-31 15:27:58.288 [info] Python interpreter path: /bin/python
+2026-03-31 15:28:00.594 [info] Starting Jedi language server for gauthamkrishna02102007.
+2026-03-31 15:28:10.630 [info] Discover tests for workspace name: gauthamkrishna02102007 - uri: /home/gauthamkrishna02102007/agent.py
+2026-03-31 15:28:26.264 [info] Discover tests for workspace name: gauthamkrishna02102007 - uri: /home/gauthamkrishna02102007/agent.py
+2026-03-31 15:29:03.951 [info] CreateEnv Trigger - Skipping for /home/gauthamkrishna02102007/agent.py
+2026-03-31 15:29:04.450 [info] Send text to terminal: /bin/python /home/gauthamkrishna02102007/agent.py
+2026-03-31 15:29:38.028 [info] Discover tests for workspace name: gauthamkrishna02102007 - uri: /home/gauthamkrishna02102007/agent.py
+2026-03-31 15:30:52.541 [info] Discover tests for workspace name: gauthamkrishna02102007 - uri: /home/gauthamkrishna02102007/agent.py
